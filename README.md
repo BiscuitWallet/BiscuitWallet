@@ -8,7 +8,9 @@
   <em>A private and modern desktop wallet for Monero, Bitcoin and Litecoin.</em><br><br>
   <a href="https://biscuitwallet.com/download/"><b>Download Biscuit</b></a> for Windows, macOS and Linux ·
   <a href="https://biscuitwallet.com/docs/">Documentation</a> ·
-  <a href="https://biscuitwallet.com/news/">Journal</a>
+  <a href="https://biscuitwallet.com/features/">Features</a> ·
+  <a href="https://biscuitwallet.com/news/">Journal</a> ·
+  <a href="https://biscuitwallet.com/about/">About</a>
 </p>
 
 <p align="center">
@@ -25,4 +27,4 @@ Biscuit started as a fork of [Feather Wallet](https://featherwallet.org). We add
 
 **Website:** [biscuitwallet.com](https://biscuitwallet.com) · **Onion:** `biscuit6qpejzxfr7us7oibhjasvrozfeno7xonffzzoj4lmw6o3kbyd.onion`
 **Release key:** `D714 332E 6101 C1DA AC60  E644 202F 1FA3 98DE CEFA`
-**Contact:** [biscuitwallet@tutamail.com](mailto:biscuitwallet@tutamail.com) · **Support us:** [donations](https://biscuitwallet.com/why/#donate)
+**Contact:** [biscuitwallet@tutamail.com](mailto:biscuitwallet@tutamail.com) · **Support us:** [donations](https://biscuitwallet.com/about/#donate)

@@ -9,7 +9,7 @@
   <a href="https://biscuitwallet.com/download/"><b>Download Biscuit</b></a> for Windows, macOS and Linux ·
   <a href="https://biscuitwallet.com/docs/">Documentation</a> ·
   <a href="https://biscuitwallet.com/features/">Features</a> ·
-  <a href="https://biscuitwallet.com/news/">Journal</a> ·
+  <a href="https://biscuitwallet.com/journal/">Journal</a> ·
   <a href="https://biscuitwallet.com/about/">About</a>
 </p>
 
@@ -24,7 +24,8 @@ Biscuit started as a fork of [Feather Wallet](https://featherwallet.org). We add
 - **Swaps** through [Trocador](https://trocador.app), and **atomic swaps** from Bitcoin to Monero with the [eigenwallet](https://eigenwallet.org) protocol.
 - **Tor** built in. No account, no analytics, no crash reports.
 - **Signed releases**, built with [Guix](https://guix.gnu.org): see [Verifying your download](https://biscuitwallet.com/docs/verify/).
+- **Open source**, all of it: the [wallet](https://github.com/BiscuitWallet/Biscuit), the [atomic swap helper](https://github.com/BiscuitWallet/biscuit-swapd) and the [server](https://github.com/BiscuitWallet/biscuit-relay) behind the website and exchange swaps.
 
 **Website:** [biscuitwallet.com](https://biscuitwallet.com) · **Onion:** `biscuit6qpejzxfr7us7oibhjasvrozfeno7xonffzzoj4lmw6o3kbyd.onion`
 **Release key:** `D714 332E 6101 C1DA AC60  E644 202F 1FA3 98DE CEFA`
-**Contact:** [biscuitwallet@tutamail.com](mailto:biscuitwallet@tutamail.com) · **Support us:** [donations](https://biscuitwallet.com/about/#donate)
+**Contact:** [biscuitwallet@tutamail.com](mailto:biscuitwallet@tutamail.com) · **Support us:** [donations](https://biscuitwallet.com/donate/)
